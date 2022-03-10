@@ -1,6 +1,6 @@
-# GooglePlayStore App Review DATA Analysis
+# Ratings Classifier
 
-***The aim of this project is to get meaningful insights in the review data and model a ML model to predict the reviews.***
+***The aim of this project is to get meaningful insights in the review data and model a ML model to predict the ratings.***
 
 The data is stored in 'googleplaystore.csv'
 
